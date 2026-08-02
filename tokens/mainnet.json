@@ -3750,5 +3750,13 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3678F4CCD64EBC4D3c816fE251aaEc0aCC21Bcf9/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x13793556fD60FfC247CC748F3780a60860BF0400",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/siddhantbaniya0011-alt/add-usdt/main/assets/logo.png"
   }
 ]
